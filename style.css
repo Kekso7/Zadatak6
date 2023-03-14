@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.glavnikvadrat {
+    width: 400px;
+    height: 400px;
+    background-color: black;
+    font-size: 0;
+}
+
+.kvadrat {
+    width: 50%;
+    height: 50%;
+    background-color: blue;
+    display: inline-block;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.red {
+    background-color: red;
+}
+
+.green {
+    background-color: green;
+}
+
+.pink {
+    background-color: pink;
+}
+
